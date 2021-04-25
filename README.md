@@ -1,24 +1,10 @@
-## Available Scripts
+## create .env file
+- add REACT_APP_CLIENT_ID=5d3a5aa2d75c43068c4498747691b758
 
-In the project directory, you can run:
-
+Run the app in development mode
 ### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-
+Run the app in production mode
 ### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
